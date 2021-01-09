@@ -1,0 +1,7 @@
+input the file directory in "Main" class
+here : String FileToAssemble = args[0] ; 
+by example :
+String FileToAssemble = specify the directory by example: "C:\\Users\\lenovo\\Desktop\\nand2tetris\\projects\\04\\Mult.asm";
+
+
+The converted file will be stored on the same directory as ".asm" file
